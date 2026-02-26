@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 public class ArrayList1{
     public static void main(String[] args){
-        ArrayList<String> arr=new ArrayList<String>();
+        ArrayList<String> arr=new ArrayList<>();
         arr.add("Nissan");
         arr.add(0,"Toyota");
         arr.get(0);
