@@ -17,7 +17,7 @@ public class RockPaperScissor {
     String ss=map.get(x);
 
     System.out.println("You chose: "+ str);
-    System.out.println("Computer chose: "+ ss);
+    System.out.println("I chose: "+ ss);
 
     if(str.equals(ss)){
       System.out.println("Its an tie");
