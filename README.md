@@ -1,5 +1,3 @@
-https://www.freecodecamp.org/mohamedidreess - JavaScript FreeCodeCamp
-
 https://github.com/IdreesMohamed/JavaScript--Tutorial---Mohamed-Idrees - JavaScript Github repo
 
 https://leetcode.com/u/MohamedIdreesS/ - LeetCode Profile
